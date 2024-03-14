@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRIEAdvanced", "CRIEAdvanced\CRIEAdvanced.csproj", "{4090C9B8-B514-4704-B9E8-80E98002F289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4090C9B8-B514-4704-B9E8-80E98002F289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4090C9B8-B514-4704-B9E8-80E98002F289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4090C9B8-B514-4704-B9E8-80E98002F289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4090C9B8-B514-4704-B9E8-80E98002F289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B9627E6-069B-4C58-9948-F55D213AB782}
+	EndGlobalSection
+EndGlobal
